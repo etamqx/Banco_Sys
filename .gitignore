@@ -1,1 +1,9 @@
-bin/
+# Compiled Source #
+###################
+*.class
+
+# Eclipse #
+###################
+*.classpath
+*.project
+*.prefs
